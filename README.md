@@ -1,4 +1,4 @@
-# MK2mm_Stepper_switch
+# MMU Stepper Switch
 
 Recreated this circuit with through-hole components
 
